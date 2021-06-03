@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Rome written by a Roman Catholick there, to a person of quality in England; giving a full account of a memorial presented to the Pope, in relation to the late King James's affairs with the Popes answer, or, (rather) denyal thereto. Licensed, July 2d: 1689.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87959</idno><idno type="EEBO-CITATION">99895633</idno>
+  <idno type="VID">153248</idno>
+  <idno type="EEBO-PROQUEST">2240913206</idno>
+  
+            <idno type="STC">Wing L1499</idno>
+            <idno type="STC">ESTC R225105</idno>
+            <idno type="PROQUEST">99895633</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895633e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2356:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Rome written by a Roman Catholick there, to a person of quality in England; giving a full account of a memorial presented to the Pope, in relation to the late King James's affairs with the Popes answer, or, (rather) denyal thereto. Licensed, July 2d: 1689.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed in Edinburgh,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Rome, June 1: V.S. 1689.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:153248:1"/>
+            <head>A LETTER FROM <hi>ROME:</hi> Written by a <hi>Roman Catholick</hi> There, to a Person of Quality in <hi>England;</hi> giving a full Account of a <hi>Memo<g ref="char:EOLhyphen"/>rial</hi> presented to the Pope, in relation to the late King <hi>James</hi>'s Affairs with the Popes Answer, Or, (rather) Denyal thereto.</head>
+            <head>LICENSED, <hi>July</hi> 2d: 1689.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I AM glad the present Heat in <hi>England</hi> against those of my Religion, has not brought upon me the misfortune of being lost to your remembrance, which I was the more jealous of, because having written to you in <hi>No<g ref="char:EOLhyphen"/>vember</hi> last, I received no return. I think you for your News, in your Letter dated <hi>May</hi> 20. Tho they cannot be pleasant to me, yet I am glad to know the worst.</p>
+            <p>In relation and obedience to your commands, I shall give you a Scantling, how that mighty Revolution in <hi>England</hi> is relisht here, and what are Peo<g ref="char:EOLhyphen"/>ples thoughts of King <hi>James</hi>'s Circumstances.</p>
+            <p>His <hi>Holiness</hi> manifests as little concern for that Kings Misfortunes, as if he had been none of his Sons; and by what Fate I cannot divine, scarce any of the Cardinals, except those of the <hi>French</hi> Faction, seem to have any Com<g ref="char:EOLhyphen"/>passion for him. This on the Popes part, will appear to you by a Speech made the last <hi>Munday</hi> to the <hi>Cardinal de Este,</hi> Brother to the Queen of <hi>England,</hi> and Protector of our Nation, which has made a mighty noise here, and was thus occcasion'd: That Cardinal had often demanded Audience of his Holi<g ref="char:EOLhyphen"/>ness with the greatest importunity; but whether from an Aversion to the Cardinals person, or Interest, or some hidden principle, the Pope could by no means be brought to grant it; at length, after long Attendance, the Car<g ref="char:EOLhyphen"/>dinal was desired to give some account before hand, of the subject Matter upon which he demanded Audience: Which the Cardinal told, was to lay before his Holiness, <hi>The sad Circumstances of his</hi> Brittanick <hi>Majesty, and of the Catholicks in</hi> England, <hi>and humbly to intreat his Holiness to endeavour an Ʋnion of all Catholick Princes for the Restauration of his</hi> Brittanick <hi>Majesty; and in the mean time, he had it in Command from that King, to beg his Holiness to take into his Fa<g ref="char:EOLhyphen"/>therly protection and Tenderness the most Christian King, whose Zeal to propagate the Catholick Religion has so signally appeared, and upon whose protection and Assistance, King</hi> James <hi>did most rely for the Recovery of his Kingdoms.</hi>
+            </p>
+            <p>This Breviat being delivered to his Holiness, we were all big with expecta<g ref="char:EOLhyphen"/>tion of the Cardinal <hi>de Este's</hi> receiving a solemn Audience. But after a weeks delay, we were mightily disappointed, For instead of being admitted into the <hi>Popes</hi> presence, the <hi>Master of the sacred Palace</hi> was commanded to attend the Cardinal <hi>de Este,</hi> at the palace <hi>Pamphilio,</hi> where he publickly made him the Speech following, which I have given you in the nearest words I can from the <hi>Italian.</hi>
+            </p>
+            <pb facs="tcp:153248:2"/>
+            <p>
+               <hi>His Holiness</hi> (said he) <hi>has commanded me to wait upon your Eminence, and in his name to tell you, That his Holiness as the common Father of Christendom is very much afflicted with the present bad circumstances of his dearest Son his</hi> Britanick <hi>Majesty, and the rather that his misfortunes have been both sudden and unexpected: But he commands me likewise to tell you, That he looks upon that unseparable conjuncti<g ref="char:EOLhyphen"/>on betwixt that King and the King of</hi> France, <hi>and the measures borrowed by him from the</hi> French <hi>Court, to have been the true source of the King of</hi> Britains <hi>miseries, especially considering the People of</hi> England <hi>were ever naturally inclinable to suspect their Kings Friendship with</hi> France, <hi>as tending to infringe their Liberties, and subject them to a</hi> French <hi>sort of Government, whereof they are so impatient. I'm commanded in the third place to tell your Eminence, That it is his Holiness Opinion, That the In<g ref="char:EOLhyphen"/>croachments of the King of</hi> France <hi>upon the Empire and Territories of the Catholick King, together with his undutiful carriage to the holy See, in point of the Franchises, has been the occasion of the Princes of the Empyre, the King of</hi> Sweden <hi>and the</hi> Hol<g ref="char:EOLhyphen"/>landers <hi>entring into a defensive and offensive League, and of the Prince of</hi> Orange's <hi>bold attempt upon</hi> England; <hi>so that the breaches of</hi> Europe, <hi>and the Ruine of his</hi> Britanick <hi>Majesty, and of the Catholick Religion in those Kingdoms, now in possession of the Prince of</hi> Orange, <hi>must lye at the door of, and be imputed to the King of</hi> France. <hi>His Holiness commands me in the fourth place, to tell your Eminence, That in respect of this long War with the</hi> Turks, <hi>and the continuation of it by the instigation of the King of</hi> France, <hi>his H: has expended vast sums of Mony, and is obliged to expend as much more as he can possibly spare; and is likewise oblieged to fortifie his own Territo<g ref="char:EOLhyphen"/>ries, and keep more Forces on foot than ordinary: For which reasons it is utterly im<g ref="char:EOLhyphen"/>possible for his Holiness to assist his</hi> Britanick <hi>Majesty with any Money at this Jun<g ref="char:EOLhyphen"/>cture. I am commanded likewise to tell your Eminence in the last place, That for certain important and weighty Reasons, his Holiness cannot allow neither your Eminence, nor his Eminence the Cardinal</hi> de Estres, <hi>publick or private Audience.</hi> Thus far the Master of the Sacred Palace's Speech.</p>
+            <p>You may easily conjecture how surprizing it was to the Cardinal <hi>de Este,</hi> and those of the <hi>French</hi> Faction. That I may not exceed the bounds of a Let<g ref="char:EOLhyphen"/>ter, I'le conclude it with telling you freely, the Opinion the most knowing Persons at <hi>Rome</hi> have of King <hi>James</hi>'s Affairs; and to deal sincerely with you, <hi>They look upon them as next to, if not altogether, desperate;</hi> from these Reasons, First, Because of the Prince of <hi>Oranges</hi> Conjunction with the <hi>Hollanders,</hi> the King of <hi>Sweden,</hi> and the most of the considerable Princes of the Empire. Se<g ref="char:EOLhyphen"/>condly, Because of the King of <hi>France's</hi> being in open Hostility with the most of his Neighbours, and his bad Circumstances with the Pope; who if he had not been thus engag'd, was the only Prince in <hi>Europe</hi> most capable to re<g ref="char:EOLhyphen"/>trieve King <hi>Jame</hi>'s Affairs. Thirdly, The extraordinary Conduct and Cou<g ref="char:EOLhyphen"/>rage of the Prince of <hi>Orange,</hi> who is esteemed to come short of no Prince in Christendom, both in Action and Cabinet. Fourthly, Because of the many and great Disobligements put upon the <hi>English</hi> Nation, by <hi>French</hi> Counsels. And lastly, Because of the great hatred the most Princes of <hi>Europe</hi> bear to the <hi>French</hi> King, which will give them an Aversion to whatever side he is of, tho it should be the best.</p>
+            <p>I would write you more on this Head, but I am not assured this shall come to your hand, being oblieged to send it the <hi>Franck fort</hi> Road; the <hi>French</hi> Post, as we hear, being stopt from going for <hi>England.</hi> If I find by your next that this comes safe to hand, you shall have account of what occurs most re<g ref="char:EOLhyphen"/>markable here, especially about <hi>English</hi> Affairs; and I expect you will give me what has occur'd since your last. I desire that it may not be known; what freedom I use in writing to you, least it should prejudice me here. I shall ever entertain all occasions of evidencing my self,</p>
+            <closer>
+               <dateline>
+                  <hi>Rome,</hi>
+                  <date>
+                     <hi>June</hi> 1: V. S. 1689.</date>
+               </dateline>
+               <salute>SIR,</salute>
+               <hi>Your very Affectionate and most humble Servant.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re-Printed in <hi>Edinburgh,</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
